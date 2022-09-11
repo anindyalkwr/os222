@@ -4,7 +4,7 @@
 <br><br>
 [HOME](https://github.com/anindyalkwr/os222) ---
 [LINKS](https://anindyalkwr.github.io/os222/links.md/) ---
-[TIPS](https://anindyalkwr.github.io/os222/tips.md) ---
+[TIPS](https://anindyalkwr.github.io/os222/links.md) ---
 [LOG](https://anindyalkwr.github.io/os222/TXT/mylog.txt) ---
 [TARBALL](https://os.vlsm.org/Log/anindyalkwr.tar.bz2.txt) ---
 [GITHUB](https://github.com/anindyalkwr)
