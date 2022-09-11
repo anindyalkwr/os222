@@ -6,7 +6,7 @@
 [LINKS](https://anindyalkwr.github.io/os222/links.md/) ---
 [TIPS](https://anindyalkwr.github.io/os222/tips.md) ---
 [LOG](https://anindyalkwr.github.io/os222/TXT/mylog.txt) ---
-[TARBALL](SandBox/anindyalkwr.tar.xz) ---
+[TARBALL](https://os.vlsm.org/Log/anindyalkwr.tar.bz2.txt) ---
 [GITHUB](https://github.com/anindyalkwr)
 <br>
 <hr>
