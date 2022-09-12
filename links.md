@@ -1,14 +1,14 @@
 ---
 permalink: LINKS/
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<span style="color:red; font-weight:bold; font-size:larger;">By Anindya Lokeswara</span>
 <br><br>
-[HOME]({{ site.baseurl }}/) ---
-[LINKS]({{ site.baseurl }}/LINKS/) ---
-[TIPS]({{ site.baseurl }}/TIPS/) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
+[HOME](https://anindyalkwr.github.io/os222) ---
+[LINKS](https://anindyalkwr.github.io/os222/LINKS/) ---
+[TIPS](https://anindyalkwr.github.io/os222/TIPS/) ---
+[LOG](https://anindyalkwr.github.io/os222/TXT/mylog.txt) ---
 [TARBALL](https://os.vlsm.org/Log/anindyalkwr.tar.bz2.txt) ---
-[GITHUB]({{ site.githublink }})
+[GITHUB](https://github.com/anindyalkwr)
 <br>
 <hr>
 
