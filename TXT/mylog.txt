@@ -23,22 +23,32 @@ ZCZC W01 100 L02 ZOOM meetings related
 ZCZC W01 10 L05 Quiz related including studying
 ZCZC W01 30 L01 SCELE/Discord related - Checking any solutions in forum discussion
 ZCZC W01 60 L01 SCELE/Discord related
-ZCZC W01 300 L10 Weekly Assignment - Installing and Preparing VirtualBox
+ZCZC W01 300 L09 Weekly Assignment - Installing and Preparing VirtualBox
 ZCZC W01 15 References/Books/Documents/Browsing/GSGS related
-ZCZC W01 100 L10 Weekly Assignment - Installing and Preparing VirtualBox
+ZCZC W01 100 L09 Weekly Assignment - Installing and Preparing VirtualBox
 ZCZC W01 15 L03 GitHub related
 ZCZC W01 15 L04 GitHub Pages related
 ZCZC W01 10 L01 SCELE/Discord related - Checking if there is a new announcement
 
-ZCZC W02 60 L10 Weekly Assignment - Readings ((OSC10) Silberschatz et. al.)
+ZCZC W02 60 L09 Weekly Assignment - Readings ((OSC10) Silberschatz et. al.)
 ZCZC W02 100 L02 ZOOM meetings related
 ZCZC W02 15 L01 SCELE/Discord related - Checking OS's Scele forum discussion and write "HELLO".
 ZCZC W02 100 L02 ZOOM meetings related
-ZCZC W02 30 L10 Weekly Assignment - Trying Previous MidTerm Problems
-ZCZC W02 45 L10 Weekly Assignment - Watch Cyber Security, Privacy
-ZCZC W02 90 L10 Weekly Assignment - WOS Week 02 Assignment #2: GnuPG (Full)
+ZCZC W02 30 L09 Weekly Assignment - Trying Previous MidTerm Problems
+ZCZC W02 45 L09 Weekly Assignment - Watch Cyber Security, Privacy
+ZCZC W02 90 L09 Weekly Assignment - WOS Week 02 Assignment #2: GnuPG (Full)
 ZCZC W02 15 References/Books/Documents/Browsing/GSGS related
 ZCZC W02 10 L05 Quiz related including studying
 ZCZC W02 15 L01 SCELE/Discord related 
-ZCZC W02 30 L10 Weekly Assignment - Week 02 Assignment #5: Script Download
+ZCZC W02 30 L09 Weekly Assignment - Week 02 Assignment #5: Script Download
 ZCZC W02 15 L03 GitHub related
+ZCZC W02 45 L09 Weekly Assignment - Week 02 Assignment #6: Finishing
+ZCZC W02 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W02 15 L64 Helping a friend (OS related problem)
+ZCZC W02 45 L21 Trying something - Try using winscp to modifiy and add a new file
+ZCZC W02 10 L40 TXT/ related in general.
+ZCZC W02 15 L41 TXT/mylog.txt related.
+ZCZC W02 10 L42 TXT/mypubkey.txt related.
+ZCZC W02 15 L43 TXT/myrank.tex related, including peer review.
+ZCZC W02 10 L44 TXT/myscript.sh related.
+ZCZC W02 5 L45 TXT/SHA256SUM related
