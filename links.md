@@ -14,17 +14,17 @@ permalink: LINKS/
 
 # LINKS
 
-1. [One](https://www.atlassian.com/git/glossary)<br>
-Basic Git Commands | Git Tutorial
+1. [Atlassian Git Commands](https://www.atlassian.com/git/glossary)<br>
+Basic Git Commands | Git Tutorial <br>
 Great for beginner programmer with little experience in using git
 
-2. [Two](https://docs.github.com/en/get-started/quickstart/hello-world)<br>
-Great website to make sure you properly understand how to use Git/GitHub
+2. [Github Introduction](https://docs.github.com/en/get-started/quickstart/hello-world)<br>
+Website to get started with GitHub.
 
-3. [Three](https://www.udacity.com/course/version-control-with-git--ud123)<br>
-This course covers the essentials of using the version control system Git. 
-You'll be able to create a new Git repo, commit changes, and review the commit history of an existing repo. 
-You'll also learn how to keep your commits organized using tags and branches and you'll master the art of merging changes by crushing those pesky merge conflicts. 
+3. [Udacity Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)<br>
+This course covers the essentials of using the version control system Git. <br>
+You'll be able to create a new Git repo, commit changes, and review the commit history of an existing repo. <br>
+You'll also learn how to keep your commits organized using tags and branches and you'll master the art of merging changes by crushing those pesky merge conflicts. <br> 
 Oh no! Was a mistake made along the way? Learn how to edit commits, revert changes, or even delete commits.
 
 <br>
