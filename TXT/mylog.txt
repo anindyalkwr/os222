@@ -56,3 +56,6 @@ ZCZC W02 90 L03 Fixed local and remote inconsistencies
 ZCZC W02 15 L09 Weekly Assignment - Update links.md (Added new links)
 ZCZC W02 45 L64 Helping a friend (OS related problem)
 ZCZC W02 15 L41 Fixed mylogs.txt log codes
+ZCZC W02 10 L44 TXT/myscript.sh related. (Run myscript again after editing TXT files)
+ZCZC W02 15 L01 SCELE/Discord related - Finishing this week's assignments (Checking if my name is on the list etc)
+ 
