@@ -25,7 +25,14 @@ Website to get started with GitHub.
 This course covers the essentials of using the version control system Git. <br>
 You'll be able to create a new Git repo, commit changes, and review the commit history of an existing repo. <br>
 You'll also learn how to keep your commits organized using tags and branches and you'll master the art of merging changes by crushing those pesky merge conflicts. <br> 
-Oh no! Was a mistake made along the way? Learn how to edit commits, revert changes, or even delete commits.
+Oh no! Was a mistake made along the way? Learn how to edit commits, revert changes, or even delete commits.<br>
+
+4. [Asymmetric Encryption - Simply explained](https://www.youtube.com/watch?v=AQDCe585Lnc)<br>
+This video covers how asymmetric encryption different from symmetric encryption.
+
+5. [File Systems in Operating System](https://www.geeksforgeeks.org/file-systems-in-operating-system/)<br>
+Helps you understand file systems in operating systems including its interface, implementation and internals.
+
 
 <br>
 <hr>

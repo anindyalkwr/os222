@@ -58,4 +58,24 @@ ZCZC W02 45 L64 Helping a friend (OS related problem)
 ZCZC W02 15 L41 Fixed mylogs.txt log codes
 ZCZC W02 10 L44 TXT/myscript.sh related. (Run myscript again after editing TXT files)
 ZCZC W02 15 L01 SCELE/Discord related - Finishing this week's assignments (Checking if my name is on the list etc)
+
+ZCZC W03 60 L09 Weekly Assignment - Readings ((OSC10) Silberschatz et. al.)
+ZCZC W03 100 L02 ZOOM meetings related
+ZCZC W03 100 L02 ZOOM meetings related
+ZCZC W03 20 L01 SCELE/Discord related - Checking OS's Scele forum discussion.
+ZCZC W03 15 References/Books/Documents/Browsing/GSGS related
+ZCZC W03 10 L05 Quiz related including studying
+ZCZC W03 15 L01 SCELE/Discord related 
+ZCZC W03 45 L64 Helping a friend (OS related problem)
+ZCZC W03 10 L21 Trying something
+ZCZC W03 180 L09 Weekly Assignment
+ZCZC W03 10 L40 TXT/ related in general.
+ZCZC W03 15 L41 TXT/mylog.txt related.
+ZCZC W03 10 L42 TXT/mypubkey.txt related.
+ZCZC W03 20 L43 TXT/myrank.tex related, including peer review.
+ZCZC W03 5 L44 TXT/myscript.sh related.
+ZCZC W03 5  L45 TXT/SHA256SUM related
+ZCZC W03 30 L03 Fixed local and remote inconsistencies
+ZCZC W03 60 L01 SCELE/Discord related - Finishing this week's assignments (Checking if my name is on the list and answering forum questions)
+ZCZC W03 60 L64 Helping a friend (OS related problem)
  
