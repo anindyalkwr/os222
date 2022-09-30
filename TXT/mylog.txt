@@ -78,4 +78,24 @@ ZCZC W03 5  L45 TXT/SHA256SUM related
 ZCZC W03 30 L03 Fixed local and remote inconsistencies
 ZCZC W03 60 L01 SCELE/Discord related - Finishing this week's assignments (Checking if my name is on the list and answering forum questions)
 ZCZC W03 60 L64 Helping a friend (OS related problem)
+
+ZCZC W04 60 L09 Weekly Assignment - Readings ((OSC10) Silberschatz et. al.)
+ZCZC W04 100 L02 ZOOM meetings related
+ZCZC W04 100 L02 ZOOM meetings related - Offline Class
+ZCZC W04 30 L01 SCELE/Discord related - Checking OS's Scele forum discussion.
+ZCZC W04 30 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 45 L05 Quiz 4 02 related including studying
+ZCZC W04 30 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 10 L05 Quiz 4 10 related including studying
+ZCZC W04 60 L09 Weekly Assignment
+ZCZC W04 10 L40 TXT/ related in general.
+ZCZC W04 45 L43 TXT/myrank.tex related, including peer review.
+ZCZC W04 10 L41 TXT/mylog.txt related.
+ZCZC W04 5 L44 TXT/myscript.sh related.
+ZCZC W04 5  L45 TXT/SHA256SUM related
+ZCZC W04 60 L01 SCELE/Discord related - (Checking if my name is on the list and answering forum questions)
+ZCZC W04 60 L64 Helping a friend (OS related problem)
+ZCZC W04 30 L01 SCELE/Discord related - Checking OS's Scele forum discussion.
+ZCZC W04 100 L00 General, etc. - Modifying links.md files
+ZCZC W04 30 L01 SCELE/Discord related - Finishing this week's assignments
  
