@@ -35,9 +35,19 @@ Set up Git, a distributed version control system, to manage your GitHub reposito
 
 6. [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/)<br>
 
-7. [C Basic Syntax](https://www.geeksforgeeks.org/c-basic-syntax/)
+7. [C Basic Syntax](https://www.geeksforgeeks.org/c-basic-syntax/) <br>
 
-8. [Difference between C and C++](https://www.geeksforgeeks.org/difference-between-c-and-c/)
+8. [Difference between C and C++](https://www.geeksforgeeks.org/difference-between-c-and-c/) <br>
+
+## Week 05 <br>
+
+9. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+
+10. [What is Virtual Memory?](https://www.techtarget.com/searchstorage/definition/virtual-memory#:~:text=Virtual%20memory%20is%20a%20common,(RAM)%20to%20disk%20storage.)
+
+11. [Little and Big Endian Mystery](https://www.geeksforgeeks.org/little-and-big-endian-mystery/)
+
+12. [Little Endian And Big Endian in C program](https://embetronicx.com/tutorials/p_language/c/little-endian-and-big-endian/)
 
 <br>
 <hr>
