@@ -49,6 +49,21 @@ Set up Git, a distributed version control system, to manage your GitHub reposito
 
 12. [Little Endian And Big Endian in C program](https://embetronicx.com/tutorials/p_language/c/little-endian-and-big-endian/)
 
+## Week 06 <br>
+
+13. [Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/#:~:text=Concurrency%20is%20the%20execution%20of,shared%20memory%20or%20message%20passing.)
+
+14. [Processes and Threads](https://learn.microsoft.com/en-us/windows/win32/procthread/processes-and-threads)
+
+15. [Single-threaded and Multi-threaded Processes](https://www.tutorialspoint.com/single-threaded-and-multi-threaded-processes)
+
+16. [C Memory Address](https://www.w3schools.com/c/c_memory_address.php#:~:text=When%20a%20variable%20is%20created,stored%20in%20this%20memory%20address.)
+
+17. [C Pointers](https://www.w3schools.com/c/c_pointers.php)
+
+18. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)
+
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

@@ -119,5 +119,33 @@ ZCZC W05 30 L01 SCELE/Discord related - Finishing this week's assignments
 ZCZC W05 60 L64 Helping a friend (OS related problem)
 ZCZC W05 60 L01 SCELE/Discord related - (Checking if my name is on the list and answering forum questions)
 
+ZCZC W06 30 L01 SCELE/Discord related - Checking OS's Scele forum discussion (Announcement).
+ZCZC W06 60 L09 Weekly Assignment - Readings ((OSC10) Silberschatz et. al.)
+ZCZC W06 60 L01 SCELE/Discord related - Starting this week's assignment
+ZCZC W06 60 L01 SCELE/Discord related - Checking OS's Scele forum discussion (New Popquiz).
+ZCZC W06 100 References/Books/Documents/Browsing/GSGS related
+ZCZC W06 30 L01 SCELE/Discord related - Checking OS's Scele forum discussion.
+ZCZC W06 30 References/Books/Documents/Browsing/GSGS related
+ZCZC W06 90 L05 Quiz 5 02 related including studying
+ZCZC W06 30 References/Books/Documents/Browsing/GSGS related
+ZCZC W06 30 L05 Quiz 5 01 related including studying
+ZCZC W06 120 L09 Weekly Assignment
+ZCZC W06 10 L40 TXT/ related in general.
+ZCZC W06 45 L43 TXT/myrank.tex related, including peer review.
+ZCZC W06 30 L41 TXT/mylog.txt related.
+ZCZC W06 10 L44 TXT/myscript.sh related.
+ZCZC W06 60 L01 SCELE/Discord related 
+ZCZC W06 100 L00 General, etc. - Modifying links.md files and watch OS related videos
+ZCZC W06 60 L01 SCELE/Discord related - Finishing this week's assignments
+ZCZC W06 90 L01 SCELE/Discord related - Checking OS's Scele forum discussion (Pop quiz).
+ZCZC W06 60 L01 SCELE/Discord related - (Checking if my name is on the list and answering forum questions)
+ZCZC W06 60 L64 Helping a friend (OS related problem)
+ZCZC W06 300 L01 SCELE/Discord related - Doing another assignment (SDA)
+ZCZC W06 300 L01 SCELE/Discord related - Doing another assignment (Linear Algebra)
+
+
+
+
+
 
  
