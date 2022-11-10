@@ -63,6 +63,17 @@ Set up Git, a distributed version control system, to manage your GitHub reposito
 
 18. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)
 
+## Week 07 <br>
+
+17. [Critical Section in OS](https://www.scaler.com/topics/critical-section-in-os/)
+
+18. [race condition](https://www.techtarget.com/searchstorage/definition/race-condition#:~:text=A%20race%20condition%20is%20an,sequence%20to%20be%20done%20correctly.)
+
+19. [Difference between Deadlock and Starvation in OS](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/)
+
+20. [Page Number, Page Offset, Frame Number and Page Table Size | Memory Management | Operating System](https://www.youtube.com/watch?v=ILG4uVK-RcE)
+
+
 
 <br>
 <hr>
