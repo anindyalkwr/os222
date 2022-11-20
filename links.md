@@ -73,6 +73,16 @@ Set up Git, a distributed version control system, to manage your GitHub reposito
 
 20. [Page Number, Page Offset, Frame Number and Page Table Size | Memory Management | Operating System](https://www.youtube.com/watch?v=ILG4uVK-RcE)
 
+## Week 08 <br>
+
+21. [getppid() and getpid() in Linux](https://www.geeksforgeeks.org/getppid-getpid-linux/)
+
+22. [LFS Frequently Asked Questions](https://www.linuxfromscratch.org/lfs/faq.html)
+
+23. [How to build Linux From Scratch 11.2](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)
+
+24. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)
+
 
 
 <br>

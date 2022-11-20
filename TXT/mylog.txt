@@ -166,6 +166,28 @@ ZCZC W07 30 L01 SCELE/Discord related - Finishing this week's assignments
 ZCZC W07 60 L64 Helping a friend (OS related problem)
 ZCZC W07 60 L01 SCELE/Discord related - (Checking if my name is on the list and answering forum questions)
 
+ZCZC W08 60 L09 Weekly Assignment - Readings ((OSC10) Silberschatz et. al.)
+ZCZC W08 100 L02 ZOOM meetings related
+ZCZC W08 120 L02 ZOOM meetings related - offline class
+ZCZC W08 30 L07 Demo related
+ZCZC W08 100 References/Books/Documents/Browsing/GSGS related
+ZCZC W08 30 L01 SCELE/Discord related - Checking OS's Scele forum discussion.
+ZCZC W08 30 References/Books/Documents/Browsing/GSGS related
+ZCZC W08 45 L05 Quiz 8 02 related including studying
+ZCZC W08 30 References/Books/Documents/Browsing/GSGS related
+ZCZC W08 10 L05 Quiz 8 01 related including studying
+ZCZC W08 360 L09 Weekly Assignment including Linux From Scratch
+ZCZC W08 60 L64 Helping a friend (OS related problem)
+ZCZC W08 10 L40 TXT/ related in general.
+ZCZC W08 45 L43 TXT/myrank.tex related, including peer review.
+ZCZC W08 30 L41 TXT/mylog.txt related.
+ZCZC W08 15 L44 TXT/myscript.sh related.
+ZCZC W08 100 L00 General, etc. - Modifying links.md files
+ZCZC W08 60 L01 SCELE/Discord related - (Checking if my name is on the list and answering forum questions)
+ZCZC W08 30 L01 SCELE/Discord related - Checking OS's Scele forum discussion.
+ZCZC W08 90 L01 SCELE/Discord related - Finishing this week's assignments including this week's popquiz
+
+
 
 
 
