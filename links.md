@@ -83,6 +83,17 @@ Set up Git, a distributed version control system, to manage your GitHub reposito
 
 24. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)
 
+## Week 09 <br>
+
+25. [Mass Storage Management](https://www.tutorialspoint.com/Mass-Storage-Management#:~:text=Disks%20are%20the%20mainly%20used,storage%20in%20operating%20systems%20today.)
+
+26. [5 Linux commands to check free disk space](https://opensource.com/article/18/7/how-check-free-disk-space-linux)
+
+27. [System and Service Manager](https://systemd.io/)
+
+28. [What is RAID?](https://www.javatpoint.com/what-is-raid)
+
+
 
 
 <br>
